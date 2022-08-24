@@ -1,0 +1,53 @@
+
+.heading
+{
+width: 100%;
+text-align: center;
+background-color: #edf5df;
+}
+.heading h3{
+    display: inline;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 35px;
+}
+
+.heading button{
+    width:130px;
+    height:40px;
+    float: right;
+    border: 1px solid white;
+    font-size: 22px;
+}
+
+#start ,#status, #restart
+{
+font-size: 22px;
+}
+
+.modal-dialog
+{
+    width: 70%;
+}
+.modal-body
+{
+    text-align: left;
+    font-size: 20px;
+}
+h4
+{
+   background-color: grey;
+   
+   color:white;
+   line-height: 2;
+}
+canvas 
+  {
+      border:3px solid white;
+      border-radius: 20px;
+      box-shadow:  5px 5px 5px white;
+  }
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
